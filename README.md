@@ -1,3 +1,10 @@
+# 入门学习使用
+
+## 安装edge引用包
+
+cnpm install edge
+
+
 Edge.js: .NET and Node.js in-process [![Build Status](https://travis-ci.org/tjanczuk/edge.svg)](https://travis-ci.org/tjanczuk/edge)
 ====
 
